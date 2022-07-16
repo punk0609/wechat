@@ -1,1 +1,5 @@
-info = {"name":"Messi", "age":18}
+info = {"name": "Messi", "age": 18}
+print(info.get("name", "字典中没有这个键"))
+
+a = 15
+x = 10
