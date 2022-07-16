@@ -1,0 +1,1 @@
+info = {"name":"Messi", "age":18}
